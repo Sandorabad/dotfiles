@@ -52,3 +52,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = sandorabad.cl@gmail.com
+	name = Sandor Abad
